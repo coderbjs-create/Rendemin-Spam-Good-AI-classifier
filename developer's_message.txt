@@ -1,0 +1,52 @@
+** Welcome to the license.txt file of the AI: Rendemin "Spam/Good Text Classifier! **
+-------------------------------------------------------------------------------------
+
+Ownership, license::
+====================
+This AI was created by the user of the gmail: coderbjs@gmail.com. He, licenses this project under
+the GNU General Public License(GPL). In short, the GPL license is:: {
+
+Rule 1. Users are free to modify the code.
+Rule 2. Users are free to test the code.
+Rule 3. Users can redistribute the code again(Does not matter if modified or not).
+Rule 4{Very Important}: Users who decide to redistribute the code
+(Does not matter if modified or not), shall license the code under the GPL license too.
+
+}
+
+Another rule added by the developer: The developer is not responsible 
+for any misuse of this software.
+
+How to use::
+============
+
+Precautions::> 
+
+In the original source code, there are a few things, that may need to be changed, depending
+on the OS(Operating System), file paths, etc..
+
+Requirements::>
+
+1. Python 3.14
+2. Python packages: {scikit-learn, pandas}. To install, type in: pip install scikit-learn pandas
+or pip3 install scikit-learn pandas.(Depends on your OS)
+
+Using::>
+
+Execute the file first(The .py file in this repository.). Then, type in a message. Then, our AI 
+will either classify it as 'GOOD' or 'SPAM'. Good means it is normal, and spam means it is
+fraudulent, ads, abusive, dangerous, etc.. Then, it will ask for feedback. 
+
+VERY IMPORTANT:: WHEN IT ASKS FOR FEEDBACK, PLEASE GIVE IT THE ANSWER 'YES' OR 'NO'. NO
+FOR THE AI GENERATED RESPONSE WAS NOT CORRECT, AND YES MEANS IT WAS. PLEASE, MAKE SURE
+TO TO KEEP FEEDBACK CORRECT, TO KEEP THE QUALITY OF THE DATASET CLEAN.
+
+Now, it's a Human in the loop ML(Machine Learning) program. It requires feedback from a
+source to furthermore train itself, using the model 'LinearSVC' and 'TfidfVectorizer' from
+scikit-learn.
+
+Farewell::>
+
+Thank You for reading the terms and conditions. Now, you may continue. For any problems
+with the code, suggestions, etc, email me in either coderbjs@gmail.com or send friend
+request to talk in discord(Discord ID is 'brinzentingborno').
