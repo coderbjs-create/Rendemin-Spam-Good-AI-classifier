@@ -1,4 +1,4 @@
-#Read the license.txt file.
+#Read the developer's_message.txt file, and then continue.
 
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
